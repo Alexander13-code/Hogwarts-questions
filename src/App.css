@@ -1,0 +1,32 @@
+/* Header */
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.link{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 15px;
+}
+
+.form{
+  justify-content: space-evenly;
+}
+
+.answers{
+  display: block;
+}
+
+.character{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  max-width: 50%;
+  border-radius: 10px;
+}
