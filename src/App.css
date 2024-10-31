@@ -30,3 +30,13 @@ img {
   max-width: 50%;
   border-radius: 10px;
 }
+
+body{
+  background-image: url('./image/Hogwarts.png');
+  background-size: cover;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7)
+}
+
+input#name{
+  height: 35px;
+}

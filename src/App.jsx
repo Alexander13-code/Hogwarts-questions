@@ -150,7 +150,7 @@ function App() {
   );
 
   return (
-    <div>
+    <div className="hogwarts-img">
       <UserProvider value={{ name: userName, setName: setUserName }}>
         <Header />
         <Routes>

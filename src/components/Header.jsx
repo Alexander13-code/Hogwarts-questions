@@ -5,7 +5,7 @@ export default function Header() {
 
   return (
       <div className="container" >
-        <h1>Which Element Are You ??</h1>
+        <h1>Discover your house from Harry Potter !!</h1>
         <p>(based on completely random things)</p>
         <div className="link">
           <Link to="/">Home</Link>
